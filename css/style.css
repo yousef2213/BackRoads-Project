@@ -559,6 +559,7 @@ a{
     max-width: 600px;
     margin: 0 auto;
     display: flex;
+    flex-wrap: wrap;
 }
 .input input[type=email]{
     border: 1px solid #3fd0d4;
